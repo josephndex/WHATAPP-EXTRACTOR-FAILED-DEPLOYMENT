@@ -1,0 +1,12 @@
+{
+  "id": "",
+  "timestamp": 1768913886,
+  "datetime": "2026-01-20T15:58:06.282043",
+  "groupName": "Fuel Reports",
+  "groupId": "",
+  "senderPhone": "",
+  "senderName": "",
+  "body": "FUEL UPDATE\nDEPARTMENT: OPERATIONS\nDRIVER: TEST\nCAR: KDA 999X\nLITERS: 30\nAMOUNT: 6000\nTYPE: DIESEL\nODOMETER: 99999",
+  "capturedAt": "2026-01-20T15:58:06.282105",
+  "source": "evolution"
+}
